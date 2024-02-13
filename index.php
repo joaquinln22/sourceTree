@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Rama Main
-=======
 <!doctype HTML>
 <html lng="en">
 <head>
